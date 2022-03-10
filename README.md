@@ -3,6 +3,7 @@
 [![Release version](https://img.shields.io/github/v/release/makuke1234/McCluskey?display_name=release&include_prereleases)](https://github.com/makuke1234/McCluskey/releases/latest)
 [![Total downloads](https://img.shields.io/github/downloads/makuke1234/McCluskey/total)](https://github.com/makuke1234/McCluskey/releases)
 ![C version](https://img.shields.io/badge/version-C2x-blue.svg)
+[![wakatime](https://wakatime.com/badge/github/makuke1234/McCluskey.svg)](https://wakatime.com/badge/github/makuke1234/McCluskey)
 
 Lahendab McCluskey intervallmeetodiga nii MDNK-sid (minimaalseid disjunktiivseid
 normaalkujusid) kui ka MKNK-sid (minimaalseid konjunktiivseid normaalkujusid).
